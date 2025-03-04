@@ -9,7 +9,7 @@ This project is part of the Google Data Analytics Capstone, analyzing fitness tr
 
 ### Main Analysis Files
 - `bellabeat_analysis.R`: Full R script used for data cleaning, analysis, and visualization.
-- `Secondary_Script_(FINAL).R`: Script used to save combined datasets to CSV files (optional, for backup and reproducibility).
+- `Secondary_Script.R`: Script used to save combined datasets to CSV files (optional, for backup and reproducibility).
 
 ### Visualizations
 - **Folder**: `/visualizations/` - Contains all final visualizations in PDF format.
